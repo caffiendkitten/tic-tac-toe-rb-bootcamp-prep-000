@@ -83,4 +83,3 @@ def turn_count(board)
   end
   return turns
 end
-
